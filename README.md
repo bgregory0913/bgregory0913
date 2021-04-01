@@ -9,8 +9,8 @@
 
 
 - 💬 How to reach me:
-  * [![Linkedin](www.linkedin.com/in/blake-greg)]((www.linkedin.com/in/blake-greg))
-  * [![Tilineum](https://www.tilineum.com)](https://www.tilineum.com)
+  * [Linkedin](www.linkedin.com/in/blake-greg)
+  * [Tilineum](https://www.tilineum.com)
   
 ✌️✌️✌️✌️✌️
 
