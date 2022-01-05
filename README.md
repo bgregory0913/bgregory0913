@@ -10,7 +10,7 @@
 
 - 💬 How to reach me:
   * [Linkedin](www.linkedin.com/in/blake-greg)
-  * [Tilineum](https://www.tilineum.com)
+<!--   * [Tilineum](https://www.tilineum.com) -->
   
 ✌️✌️✌️✌️✌️
 
