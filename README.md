@@ -4,8 +4,7 @@
 - 👀 I’m focused on automating human tasks and providing financial insight to make life simpler and accelerate business growth.
 - 🎣 If I'm not coding, I'm fishing. I'm an outdoor enthusiast and spend the majority of my free time fishing, hiking, camping, skiing, and rafting. 
 - 💭 Always thinking of innovative ways to enhance my projects or apply them to different business scenarios.
-- 🏫 Currently working on various Solidity projects.
-- 🤝 I’m always open to collaborate on Algorithmic Trading and Blockchain projects.
+- 🤝 I’m open to collaborate on projects, send me a message!
 
 
 - 💬 How to reach me:
